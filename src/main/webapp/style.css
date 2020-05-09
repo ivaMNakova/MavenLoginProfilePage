@@ -1,0 +1,58 @@
+#top{
+    background-color:#012e5e;
+    height: 100px;
+}
+#head{
+    color: #012e5e;
+    text-align: left;
+}
+#p1{
+    color: #012e5e;
+    text-align: left;
+    margin-top: 20px;
+
+}
+#image{
+    height: 255px;
+    background-color:darkgoldenrod;
+    margin-top: 20px;
+}
+#head1{
+    color: #012e5e;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+#head2{
+    color: #012e5e;
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+#p2{
+    color: #012e5e;
+    text-align: left;
+    padding-left: 50px;
+}
+#progress{
+    height: 4px;
+    color: #012e5e;
+
+}
+#labels{
+    color: #012e5e;
+    text-align: left;
+    padding-left: 50px;
+}
+#value{
+    color: #ffb606;
+    text-align: left;
+    padding-left: 50px;
+}
+.progress{
+    background-color: #ffb606;
+    margin-left: 50px;
+}
+.progress-bar{
+    background-color:#012e5e;
+}
